@@ -1,9 +1,7 @@
 " Copyright (C) 2016-present Arctic Ice Studio <development@arcticicestudio.com>
 " Copyright (C) 2016-present Sven Greb <development@svengreb.de>
 
-" Project: Nord Vim
-" Repository: https://github.com/arcticicestudio/nord-vim
-" License: MIT
+" Project: Nord Vim Repository: https://github.com/arcticicestudio/nord-vim License: MIT
 
 if version > 580
   hi clear
@@ -25,7 +23,7 @@ let s:nord4_gui = "#D8DEE9"
 let s:nord5_gui = "#E5E9F0"
 let s:nord6_gui = "#ECEFF4"
 let s:nord7_gui = "#8FBCBB"
-let s:nord8_gui = "#AC5DFD"
+let s:nord8_gui = "#BD93F9"
 let s:nord9_gui = "#81A1C1"
 let s:nord10_gui = "#5E81AC"
 let s:nord11_gui = "#BF616A"
